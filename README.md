@@ -1,11 +1,7 @@
 # BCHS-Unblocked-Games-V2
-Please note that this version doesn't contain the games themselves, The HTML files only contain embeds to other sites.
-
-## Alternate Link
-https://sites.google.com/view/def-maths/home
-
-# HTML-Games-Collection
 Welcome to BCHS Unblocked Games HTML Games Collection, your best option for unblocked games on the internet. This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, please message me on discord and we can talk! Tw31122007#4450
+
+Please note that this version doesn't contain the games themselves, The HTML files only contain embeds to other sites.
 
 ## Features
 
@@ -26,12 +22,11 @@ You can access my website using the links below:
 
 Please note that with the version of my website thats hosted on Github, A small percentage of the games won't work due to embedding issues.
 
-## Host the games
+## Hosting the games
 
-Below are some of the options you can use to deploy your own copy of the games. **If you do not know what you are doing, it is suggested that you use a link someone is currently hosting! For Replit the games have been divided into 1 GB parts due to replits hosting limitations**
+Below are some of the options you can use to deploy your own copy of the games. **If you do not know what you are doing, it is suggested that you use a link someone is currently hosting!** For Replit the games have been divided into 1 GB parts due to replits hosting limitations.
 
-## Replit
-
+Replit:
 After you click the "Run on replit" button you will be brought to replit, make sure to select HTML as the language or else it won"t work. You should see a webview in the side bar, copy the link in the url bar and paste it into a new tab. This url should looks simialr to this: "https://html-games-collection-replit-2-4.tylerwilson32.repl.co/" then look at the name of the folder eg. "froggys-battle" add this to the end of the url and it should look similar to this "https://html-games-collection-replit-2-4.tylerwilson32.repl.co/froggys-battle/".
 
 ## Part 1
