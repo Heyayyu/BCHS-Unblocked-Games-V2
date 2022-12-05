@@ -30,13 +30,11 @@ Please note that this version doesn't contain the games themselves, The HTML fil
 
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/tw31120071857/BCHS-Unblocked-Games-V2/"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg"></a>
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/tw31120071857/BCHS-Unblocked-Games-V2)
-[![Deploy with Netlify](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tw31120071857/BCHS-Unblocked-Games-V2/)
+[![Deploy with Netlify](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tw31120071857/BCHS-Unblocked-Games-V2)
 [![Deploy with Vercel](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/tw31120071857/BCHS-Unblocked-Games-V2/)
 [![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/tw31120071857/BCHS-Unblocked-Games-V2/)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/tw31120071857/BCHS-Unblocked-Games-V2/)
-[![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/tw31120071857/BCHS-Unblocked-Games-V2/)
-[![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/tw31120071857/BCHS-Unblocked-Games-V2/)
-[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/tw31120071857/BCHS-Unblocked-Games-V2/)
+[![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/tw31120071857/BCHS-Unblocked-Games-V2)
 
 ## Hosting The Games
 
