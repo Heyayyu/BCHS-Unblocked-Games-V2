@@ -28,6 +28,8 @@ You can access the games here:
 ## Hosting The Website
 Please note that this version doesn't contain the games themselves, The HTML files only contain embeds to other sites.
 
+(These buttons are a work in progress 30% chance that they will work)
+
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/tw31120071857/BCHS-Unblocked-Games-V2/"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg"></a>
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/tw31120071857/BCHS-Unblocked-Games-V2)
 [![Deploy with Netlify](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tw31120071857/BCHS-Unblocked-Games-V2)
